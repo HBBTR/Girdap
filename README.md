@@ -15,7 +15,7 @@ Girdap İndirme Yöneticisi - Kurulum Dosyasını [Buradan indirin](https://gith
 
 ## Ek Bilgi<br>
 Kendi kendine yeten (self-contained) yayın — .NET 10 yüklü olması gerekmez<br>
-Kod imzalı kurulum — "Yayımcı: Habib" olarak görünür.
+
 
 ## Ekran Görüntüsü<br>
 ![Girdap Arayüzü](https://github.com/HBBTR/Girdap/raw/main/Image_f163w4f163w4f163.png)

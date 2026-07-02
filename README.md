@@ -2,6 +2,7 @@ Girdap
 Girdap İndirme Yöneticisi - Kurulum Dosyası
 
 Özellikler
+
 Çoklu eşzamanlı indirme
 
 Hız sınırlama ve trafik kontrolü
@@ -23,6 +24,7 @@ Detaylı istatistikler
 API ile uzaktan kontrol
 
 Ek Bilgi
+
 Kendi kendine yeten (self-contained) yayın — .NET 10 yüklü olması gerekmez
 
 Kod imzalı kurulum — "Yayımcı: Habib" olarak görünür.

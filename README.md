@@ -1,4 +1,4 @@
-Girdap İndirme Yöneticisi - Kurulum Dosyası
+Girdap İndirme Yöneticisi - Kurulum Dosyasını [Buradan indirin](https://github.com/HBBTR/Girdap/releases/download/v1.0.0.0/Girdap-Kurulum-1.0.0.0-x64.exe)
 
 Özellikler<br>
 * Çoklu eşzamanlı indirme<br>

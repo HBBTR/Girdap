@@ -1,6 +1,6 @@
 Girdap İndirme Yöneticisi - Kurulum Dosyasını [Buradan indirin](https://github.com/HBBTR/Girdap/releases/download/v1.0.0.0/Girdap-Kurulum-1.0.0.0-x64.exe)
 
-Özellikler<br>
+## Özellikler<br>
 * Çoklu eşzamanlı indirme<br>
 * Hız sınırlama ve trafik kontrolü<br>
 * Duraklatma ve kaldığı yerden devam ettirme<br>
@@ -13,7 +13,7 @@ Girdap İndirme Yöneticisi - Kurulum Dosyasını [Buradan indirin](https://gith
 * API ile uzaktan kontrol
 
 
-Ek Bilgi<br>
+## Ek Bilgi<br>
 Kendi kendine yeten (self-contained) yayın — .NET 10 yüklü olması gerekmez<br>
 Kod imzalı kurulum — "Yayımcı: Habib" olarak görünür.
 
